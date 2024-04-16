@@ -107,7 +107,7 @@ let weather = {
       }
     });
   
-  weather.fetchWeather("Manipal");
+  weather.fetchWeather("Noida");
   
   document
     .querySelector(".search-bar")
